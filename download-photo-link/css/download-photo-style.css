@@ -1,0 +1,58 @@
+.download_form_input {
+	display: inline-block;
+}
+.numberblock_input {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    width: 75%;
+    padding-right: 20px;
+    position: relative;
+}
+.numberblock_submit {
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+}
+.bl_input {
+    margin: 0;
+    font-family: 'Ubuntu',Arial,sans-serif;
+    font-size: 100%;
+    height: 60px;
+    padding: 0 20px;
+    font-size: 16px;
+    line-height: 1.33;
+    width: 100%;
+    border: 0 none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: none;
+    -webkit-appearance: none;
+    border-radius: 0;
+}
+.bl-submit {
+    font-family: 'Ubuntu',Arial,sans-serif;
+    text-align: center;
+    height: 60px;
+    border: 0 none;
+    font-size: 16px;
+    padding-left: 60px;
+    padding-right: 60px;
+    -webkit-appearance: none;
+    font-weight: 700;
+    white-space: nowrap;
+    background-image: none;
+    cursor: pointer;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    outline: none;
+    color: #ffffff; 
+     background-color: #2e93ff;
+}
+.dphl_form{
+	text-align: center;
+
+}
